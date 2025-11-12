@@ -182,48 +182,6 @@ print(timestamp)
 
 ---
 
-### 5. (Level 3, Coding)
-Write a function that takes a Unix timestamp and returns a string in the format `"Day, DD Month YYYY HH:MM:SS"` (e.g., `"Sat, 01 June 2024 12:00:00"`).
-
-<details>
-<summary>Solution</summary>
-
-```python
-import time
-
-def format_timestamp(ts):
-    return time.strftime("%a, %d %B %Y %H:%M:%S", time.localtime(ts))
-
-# Example usage:
-print(format_timestamp(1717233600))  # Output: Sat, 01 June 2024 12:00:00
-```
-</details>
-
----
-
-## 7. Auto-Grading Rubrics
-
-**Exercise 1 (1 pt):**
-- Correct option selected (1 pt)
-
-**Exercise 2 (1 pt):**
-- Correct type identified as `struct_time` (1 pt)
-
-**Exercise 3 (2 pts):**
-- Uses `time.strftime` with correct format (1 pt)
-- Uses `time.localtime()` to get current time (1 pt)
-
-**Exercise 4 (2 pts):**
-- Uses `time.strptime` with correct format (1 pt)
-- Converts struct_time to timestamp with `time.mktime` (1 pt)
-
-**Exercise 5 (3 pts):**
-- Function accepts a timestamp parameter (1 pt)
-- Uses `time.strftime` with correct format string (1 pt)
-- Returns correctly formatted string (1 pt)
-
----
-
 ## 7. Further Reading
 
 - [Python Docs: time module](https://docs.python.org/3/library/time.html)

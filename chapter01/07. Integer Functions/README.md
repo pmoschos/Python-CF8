@@ -175,29 +175,6 @@ print(q, r)  # Output: 17 4
 ```
 </details>
 
----
-
-### 5. (Level 3, Coding)
-Write a function that takes a string representing a number in base 8 (octal), converts it to an integer, raises it to the 5th power, and returns the result modulo 1000.
-
-```python
-def octal_power_mod(s):
-    # Your code here
-```
-
-Test with: `print(octal_power_mod('12'))`  # '12' in octal is 10 in decimal
-
-<details>
-<summary>Solution</summary>
-
-```python
-def octal_power_mod(s):
-    n = int(s, 8)
-    return pow(n, 5, 1000)
-
-print(octal_power_mod('12'))  # Output: 0 (10**5 = 100000, 100000 % 1000 = 0)
-```
-</details>
 
 ---
 

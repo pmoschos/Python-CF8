@@ -159,23 +159,7 @@ print(abs(a - b) < 1e-6)  # Output: True
 
 ---
 
-### 5. (Level 3, Coding)
-Write a function `is_close(x, y, tol=1e-8)` that returns `True` if `x` and `y` are within `tol` of each other, and `False` otherwise. Use it to check if `0.1 + 0.2` is close to `0.3`.
-
-<details>
-<summary>Solution</summary>
-
-```python
-def is_close(x, y, tol=1e-8):
-    return abs(x - y) < tol
-
-print(is_close(0.1 + 0.2, 0.3))  # Output: True
-```
-</details>
-
----
-
-## 8. Further Reading
+## 7. Further Reading
 
 - [Python 3 Documentation: Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3/tutorial/floatingpoint.html)
 
