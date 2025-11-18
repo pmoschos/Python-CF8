@@ -19,9 +19,9 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 
 <table>
   <tr>
-    <td>01. <a href="https://github.com/pmoschos/python-CF8/tree/main/chapter03/01.%20Immutable%20ID%20Demo" title="Demonstrates the concept of immutable IDs in Python, emphasizing object identity and immutability.">Immutable ID Demo</a></td>
-    <td>02. <a href="https://github.com/pmoschos/python-CF8/tree/main/chapter03/02.%20Modifiable%20Objects%20Demo" title="Shows how to work with mutable objects, including common operations and implications of mutability.">Modifiable Objects Demo</a></td>
-    <td>03. <a href="https://github.com/pmoschos/python-CF8/tree/main/chapter03/03.%20Rectangle%20and%20Square%20Check" title="A script to check if a rectangle is a square, illustrating conditional logic and geometric properties.">Rectangle and Square Check</a></td>
+    <td>01. <a href="https://github.com/pmoschos/Python-CF8/tree/main/chapter02/chapter03/01.%20Immutable%20ID%20Demo" title="Demonstrates the concept of immutable IDs in Python, emphasizing object identity and immutability.">Immutable ID Demo</a></td>
+    <td>02. <a href="https://github.com/pmoschos/Python-CF8/tree/main/chapter02/chapter03/02.%20Modifiable%20Objects%20Demo" title="Shows how to work with mutable objects, including common operations and implications of mutability.">Modifiable Objects Demo</a></td>
+    <td>03. <a href="https://github.com/pmoschos/Python-CF8/tree/main/chapter02/chapter03/03.%20Rectangle%20and%20Square%20Check" title="A script to check if a rectangle is a square, illustrating conditional logic and geometric properties.">Rectangle and Square Check</a></td>
   </tr>
   <tr>
     <td>04. <a href="https://github.com/pmoschos/python-CF8/tree/main/chapter03/04.%20List%20Comparison" title="Covers techniques for comparing lists, including element-wise comparison and finding common elements.">List Comparison</a></td>
