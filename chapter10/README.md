@@ -10,6 +10,11 @@ Designed to be minimal, fast, and fun to use.
 
 ---
 
+## 📸 Screenshots
+![image](https://github.com/pmoschos/PythonScripts/assets/133533759/eea04c94-fa0a-405f-b3a0-1eded0767978)
+
+---
+
 ## 📦 Installation
 
 Install directly from PyPI:
