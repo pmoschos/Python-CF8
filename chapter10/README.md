@@ -60,7 +60,7 @@ Planned future enhancements:
 
 - Additional color themes  
 - FIGlet-style fonts  
-- CLI tool (`pmoschos-art`)  
+- CLI tool (`pmoschos-art-gen`)  
 - Multi-line block ASCII art  
 
 ---
